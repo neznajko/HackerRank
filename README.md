@@ -9,3 +9,6 @@ but there are other languages like Ruby, Go, etc.
 - encryption.rb { Stuff } Ruby on Strings
 - minloss.rb ( Sorting ) That's interesting
 
+# go
+- nondivisable.go [ Hashing ] max subset of non divisible pairs
+
