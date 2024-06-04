@@ -13,3 +13,6 @@ but there are other languages like Ruby, Go, etc.
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
 
+# python
+- kingdom.py [ Tree ] color a tree without isolated vertices 
+
