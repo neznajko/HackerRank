@@ -9,6 +9,7 @@ but there are other languages like Ruby, Go, etc.
 - encryption.rb { Stuff } Ruby on Strings
 - minloss.rb ( Sorting ) That's interesting
 - themaxsubrry.rb [ dp ] check this out
+- coins_change.rb [ dp ] the classical variation
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
