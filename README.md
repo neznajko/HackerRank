@@ -11,6 +11,7 @@ but there are other languages like Ruby, Go, etc.
 - themaxsubrry.rb [ dp ] check this out
 - coins_change.rb [ dp ] the classical variation
 - Samantha.rb [ dp ] sum of all substrings 4 O( n )
+- consar.rb [ dp ] cons array with different consecutive elements
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
