@@ -12,6 +12,7 @@ but there are other languages like Ruby, Go, etc.
 - coins_change.rb [ dp ] the classical variation
 - Samantha.rb [ dp ] sum of all substrings 4 O( n )
 - consar.rb [ dp ] cons array with different consecutive elements
+- FibonacciMod.rb [ dp ] tha'ts easy not medium:)
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
