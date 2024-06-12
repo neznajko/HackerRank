@@ -13,6 +13,7 @@ but there are other languages like Ruby, Go, etc.
 - Samantha.rb [ dp ] sum of all substrings 4 O( n )
 - consar.rb [ dp ] cons array with different consecutive elements
 - FibonacciMod.rb [ dp ] tha'ts easy not medium:)
+- abbr.rb [ dp ] Mòóǫőöchten Sie bei mir zu Hause Muzik hören? 
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
