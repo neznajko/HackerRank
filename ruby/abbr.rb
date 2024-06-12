@@ -134,7 +134,7 @@ end                        #####################################
 #     Möchten Sie bei mir zu Hause Tee trinken? 
 ################################################################
 # (8) 音楽を聞きませんか。
-# 　　Möchten Sie Musik hören?
+#     Möchten Sie Musik hören?
 ################################################################
 #                                                Congratulations
 #                                      You solved this challenge
