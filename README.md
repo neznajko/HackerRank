@@ -14,6 +14,7 @@ but there are other languages like Ruby, Go, etc.
 - consar.rb [ dp ] cons array with different consecutive elements
 - FibonacciMod.rb [ dp ] tha'ts easy not medium:)
 - abbr.rb [ dp ] Mòóǫőöchten Sie bei mir zu Hause Muzik hören? 
+- knapsack.rb [ dp ] determine the nearest but not exceeding sum 
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
