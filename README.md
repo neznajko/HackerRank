@@ -16,6 +16,7 @@ but there are other languages like Ruby, Go, etc.
 - abbr.rb [ dp ] Mòóǫőöchten Sie bei mir zu Hause Muzik hören? 
 - knapsack.rb [ dp ] determine the nearest but not exceeding sum 
 - mandragora.rb [ dp ] a journey through the Evil Forest
+- super_digit.rb [ recursion ] that's easy
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
