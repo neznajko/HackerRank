@@ -26,3 +26,6 @@ but there are other languages like Ruby, Go, etc.
 - kingdom.py [ Tree ] color a tree without isolated vertices 
 - password.py [ DP ] CuteKittens.com
 
+# dotnet
+- picknum.cs [ Hashing ] picking maxlen subarray
+
