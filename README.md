@@ -18,6 +18,7 @@ but there are other languages like Ruby, Go, etc.
 - mandragora.rb [ dp ] a journey through the Evil Forest
 - super_digit.rb [ recursion ] that's easy
 - crossword.rb [ recursion ] tha'ts like a diploma thesis 
+- beautiful_days.rb [ math ] reversing numbers
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
