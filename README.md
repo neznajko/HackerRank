@@ -30,6 +30,7 @@ but there are other languages like Ruby, Go, etc.
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
+- queen_moves.cs [ Stuff ] nof Q moves on a nxn board
 
 # cpp
 - dna.cc [ mma ] tha'ts nice
