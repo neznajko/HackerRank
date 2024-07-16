@@ -19,6 +19,7 @@ but there are other languages like Ruby, Go, etc.
 - super_digit.rb [ recursion ] that's easy
 - crossword.rb [ recursion ] tha'ts like a diploma thesis 
 - beautiful_days.rb [ math ] reversing numbers
+- sticks.rb [ hashing ] discard and count sticks
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
