@@ -35,4 +35,6 @@ but there are other languages like Ruby, Go, etc.
 
 # cpp
 - dna.cc [ mma ] tha'ts nice
+- grid_search.cc [ searching ] find patterns in a grid
+
 
