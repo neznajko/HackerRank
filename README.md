@@ -36,5 +36,4 @@ but there are other languages like Ruby, Go, etc.
 # cpp
 - dna.cc [ mma ] tha'ts nice
 - grid_search.cc [ searching ] find patterns in a grid
-
-
+- matrix_layer_rotation.cc [ math ] rotate layers in a matrix
