@@ -28,6 +28,7 @@ but there are other languages like Ruby, Go, etc.
 - kingdom.py [ Tree ] color a tree without isolated vertices 
 - password.py [ DP ] CuteKittens.com
 - time_in_words [ Stuff ] convyorting clock time into words
+- leaderboard [ searching ] find players' positions in a leaderboard
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
