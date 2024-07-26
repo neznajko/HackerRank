@@ -27,8 +27,9 @@ but there are other languages like Ruby, Go, etc.
 # python
 - kingdom.py [ Tree ] color a tree without isolated vertices 
 - password.py [ DP ] CuteKittens.com
-- time_in_words [ Stuff ] convyorting clock time into words
-- leaderboard [ searching ] find players' positions in a leaderboard
+- time_in_words.py [ Stuff ] convyorting clock time into words
+- leaderboard.py [ searching ] find players' positions in a leaderboard
+- maxpalin.py [ two pointers ] OK maximum valued palindrome creation
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
