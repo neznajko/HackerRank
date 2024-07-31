@@ -41,4 +41,5 @@ but there are other languages like Ruby, Go, etc.
 - matrix_layer_rotation.cc [ math ] rotate layers in a matrix
 - sherlock.cpp [ set ] find all substring anagram pairs
 - insert_coin.cpp [ tree ] number of insert sort shifts 4 O( nlog n )
+- bomberman.cpp [ math ] bombs in a grid
 
