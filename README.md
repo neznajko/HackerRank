@@ -42,4 +42,5 @@ but there are other languages like Ruby, Go, etc.
 - sherlock.cpp [ set ] find all substring anagram pairs
 - insert_coin.cpp [ tree ] number of insert sort shifts 4 O( nlog n )
 - bomberman.cpp [ math ] bombs in a grid
+- morgan.cpp [ sorting ] lexicographic sorting of stacks
 
