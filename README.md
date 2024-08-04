@@ -30,6 +30,7 @@ but there are other languages like Ruby, Go, etc.
 - time_in_words.py [ Stuff ] convyorting clock time into words
 - leaderboard.py [ searching ] find players' positions in a leaderboard
 - maxpalin.py [ two pointers ] OK maximum valued palindrome creation
+- flatland.py [ searching ] comsat stations maximum minimum distance
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
@@ -43,4 +44,5 @@ but there are other languages like Ruby, Go, etc.
 - insert_coin.cpp [ tree ] number of insert sort shifts 4 O( nlog n )
 - bomberman.cpp [ math ] bombs in a grid
 - morgan.cpp [ sorting ] lexicographic sorting of stacks
+
 
