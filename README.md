@@ -31,6 +31,7 @@ but there are other languages like Ruby, Go, etc.
 - leaderboard.py [ searching ] find players' positions in a leaderboard
 - maxpalin.py [ two pointers ] OK maximum valued palindrome creation
 - flatland.py [ searching ] comsat stations maximum minimum distance
+- JohnWatson [ stuff ] aka Dr.Watson
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
