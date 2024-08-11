@@ -33,6 +33,7 @@ but there are other languages like Ruby, Go, etc.
 - flatland.py [ searching ] comsat stations maximum minimum distance
 - JohnWatson.py [ stuff ] aka Dr.Watson
 - Gridland_Metro.py [ sorting ] merging intervals
+- knight.py [ bfs ] knight on a chess board
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
