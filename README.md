@@ -23,6 +23,7 @@ but there are other languages like Ruby, Go, etc.
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
+- ContainersOfBalls.go [ Hashing ] sorting by swapping
 
 # python
 - kingdom.py [ Tree ] color a tree without isolated vertices 
