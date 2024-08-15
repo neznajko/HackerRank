@@ -20,6 +20,7 @@ but there are other languages like Ruby, Go, etc.
 - crossword.rb [ recursion ] tha'ts like a diploma thesis 
 - beautiful_days.rb [ math ] reversing numbers
 - sticks.rb [ hashing ] discard and count sticks
+- surface.rb [ stuff ] 3d surface area
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
