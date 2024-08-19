@@ -21,6 +21,7 @@ but there are other languages like Ruby, Go, etc.
 - beautiful_days.rb [ math ] reversing numbers
 - sticks.rb [ hashing ] discard and count sticks
 - surface.rb [ stuff ] 3d surface area
+- supacomputa.rb [ stuff ] pluses on a grid
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
