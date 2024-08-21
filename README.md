@@ -22,6 +22,7 @@ but there are other languages like Ruby, Go, etc.
 - sticks.rb [ hashing ] discard and count sticks
 - surface.rb [ stuff ] 3d surface area
 - supacomputa.rb [ stuff ] pluses on a grid
+- Larry.rb [ math ] sorting
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
