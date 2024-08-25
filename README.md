@@ -54,5 +54,6 @@ but there are other languages like Ruby, Go, etc.
 - bomberman.cpp [ math ] bombs in a grid
 - morgan.cpp [ sorting ] lexicographic sorting of stacks
 - cutree.cc [ Tree ] cutting edges in a tree
+- countsort.cc [ Hashing ] O( n ) sorting
 
 
