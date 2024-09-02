@@ -40,6 +40,7 @@ but there are other languages like Ruby, Go, etc.
 - knight.py [ bfs ] knight on a chess board
 - bigger_is_greater.py [ combinatorics ] next lexicographical permutation
 - abs_perm.py [ greedy ] absolute permutation 
+- push-n-pop.py [ stack ] making two strings equal with push and pops 
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
