@@ -23,6 +23,7 @@ but there are other languages like Ruby, Go, etc.
 - surface.rb [ stuff ] 3d surface area
 - supacomputa.rb [ stuff ] pluses on a grid
 - Larry.rb [ math ] sorting
+- clouds.rb [ stuff ] a mobile game
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
