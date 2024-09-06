@@ -57,5 +57,6 @@ but there are other languages like Ruby, Go, etc.
 - morgan.cpp [ sorting ] lexicographic sorting of stacks
 - cutree.cc [ Tree ] cutting edges in a tree
 - countsort.cc [ Hashing ] O( n ) sorting
+- WorldFinals.cc [ stuff ] 2 team number of topics
 
 
