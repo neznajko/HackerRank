@@ -82,8 +82,3 @@ end
 #                              10 numbers, zo the probability is
 #
 #                                           P = 10 / 1000 = 0.01
-#                                         
-# Yeh 4 months without TV no news basically no radio, and I fink
-# I'm going to restrict myself to listening of rain on YouTube:)
-#
-################################################################
