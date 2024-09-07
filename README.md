@@ -24,6 +24,7 @@ but there are other languages like Ruby, Go, etc.
 - supacomputa.rb [ stuff ] pluses on a grid
 - Larry.rb [ math ] sorting
 - clouds.rb [ stuff ] a mobile game
+- bthday.rb [ stuff ] repainting birthday presents
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
