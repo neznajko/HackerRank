@@ -66,7 +66,7 @@ end
 #       has to be equal to 1, now we are looking for b such that
 #                                                3b ends with 1:
 # 3 * 0 = 0
-# 3 * 1 = 1
+# 3 * 1 = 3
 # 3 * 2 = 6
 # 3 * 3 = 9
 # 3 * 4 = 12
