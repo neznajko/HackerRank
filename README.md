@@ -25,7 +25,7 @@ but there are other languages like Ruby, Go, etc.
 - Larry.rb [ math ] sorting
 - clouds.rb [ stuff ] a mobile game
 - bthday.rb [ stuff ] repainting birthday presents
-- Kaprekar.rb [ math ] Modified Kaprekar numbers
+- Kaprekar.rb [ math ] Modified Kaprekar Numbers
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
