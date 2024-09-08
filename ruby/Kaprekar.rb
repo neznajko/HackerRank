@@ -100,8 +100,3 @@ kaprekarNumbers p, q  ##########################################
 # Challenges:         90 / 563
 # Points:             2418
 # Rank:               33962
-# The  most  annoying  of  all are people or institutes claiming
-# to be leaders, like with professors the  first  leaders   were
-# the  last leaders,   after that all leaders have become   like
-# shiny objects, everything in  this  world  is    driven     by
-# selfishness hidden          behind     empty             words
