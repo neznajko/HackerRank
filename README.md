@@ -63,4 +63,5 @@ but there are other languages like Ruby, Go, etc.
 - countsort.cc [ Hashing ] O( n ) sorting
 - WorldFinals.cc [ stuff ] 2 team number of topics
 - CavityMap.cc [ stuff ] mark with X cavities on a map
+- Stones.cpp [ path ] find sum of all stone combinations
 
