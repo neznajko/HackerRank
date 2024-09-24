@@ -27,6 +27,7 @@ but there are other languages like Ruby, Go, etc.
 - bthday.rb [ stuff ] repainting birthday presents
 - Kaprekar.rb [ math ] Modified Kaprekar Numbers
 - workbook.rb [ Array ] number of special problems
+- Ladybugs.rb [ Array ] board game
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
