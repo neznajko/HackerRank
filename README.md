@@ -47,6 +47,7 @@ but there are other languages like Ruby, Go, etc.
 - abs_perm.py [ greedy ] absolute permutation 
 - push-n-pop.py [ stack ] making two strings equal with push and pops 
 - benevolent.py [ stuff ] fair ratios
+- StrangeCounter.py [ math ] strange math problem
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
