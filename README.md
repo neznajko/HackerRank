@@ -48,6 +48,7 @@ but there are other languages like Ruby, Go, etc.
 - push-n-pop.py [ stack ] making two strings equal with push and pops 
 - benevolent.py [ stuff ] fair ratios
 - StrangeCounter.py [ math ] strange math problem
+- almost_sorted.py [ sorting ] a tedious problem
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
