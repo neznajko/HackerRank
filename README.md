@@ -49,6 +49,7 @@ but there are other languages like Ruby, Go, etc.
 - benevolent.py [ stuff ] fair ratios
 - StrangeCounter.py [ math ] strange math problem
 - almost_sorted.py [ sorting ] a tedious problem
+- superstring.py [ stack ] removing adjacent characters
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
