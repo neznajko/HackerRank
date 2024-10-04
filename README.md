@@ -29,8 +29,9 @@ but there are other languages like Ruby, Go, etc.
 - workbook.rb [ Array ] number of special problems
 - Ladybugs.rb [ Array ] board game
 - intro.rb [ SEARCHING ] binary search
-- insert_coin_1.rb [ SORTING ] insert sort part 1
-- insert_coin_2.rb [ SORTING ] insert sort part 2
+- insert_coin_1.rb [ SORTING ] insertion sort part 1
+- insert_coin_2.rb [ SORTING ] insertion sort part 2
+- runtime.rb [ SORTING ] insertion sort part 4
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
