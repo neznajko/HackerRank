@@ -32,6 +32,7 @@ but there are other languages like Ruby, Go, etc.
 - insert_coin_1.rb [ SORTING ] insertion sort part 1
 - insert_coin_2.rb [ SORTING ] insertion sort part 2
 - runtime.rb [ SORTING ] insertion sort part 4
+- median.rb [ HASHING ] finding medians for O(n)
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
