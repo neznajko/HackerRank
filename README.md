@@ -34,6 +34,7 @@ but there are other languages like Ruby, Go, etc.
 - runtime.rb [ SORTING ] insertion sort part 4
 - median.rb [ HASHING ] finding medians for O(n)
 - youshallnotpass.rb [ STUFF ] password checking
+- twochars.rb [ STUFF ] alternating two characters
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
