@@ -35,6 +35,7 @@ but there are other languages like Ruby, Go, etc.
 - median.rb [ HASHING ] finding medians for O(n)
 - youshallnotpass.rb [ STUFF ] password checking
 - twochars.rb [ STUFF ] alternating two characters
+- hackstring.rb [ STUFF ] hackerrank in a string
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
