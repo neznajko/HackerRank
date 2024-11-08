@@ -36,6 +36,7 @@ but there are other languages like Ruby, Go, etc.
 - youshallnotpass.rb [ STUFF ] password checking
 - twochars.rb [ STUFF ] alternating two characters
 - hackstring.rb [ STUFF ] hackerrank in a string
+- cipher.rb [ STUFF ] 1.a2-a4 a7-a6!
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
