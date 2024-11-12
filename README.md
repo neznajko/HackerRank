@@ -37,6 +37,7 @@ but there are other languages like Ruby, Go, etc.
 - twochars.rb [ STUFF ] alternating two characters
 - hackstring.rb [ STUFF ] hackerrank in a string
 - cipher.rb [ STUFF ] 1.a2-a4 a7-a6!
+- closest.rb [ SORTING ] closest numbers
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
