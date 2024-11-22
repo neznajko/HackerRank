@@ -39,6 +39,7 @@ but there are other languages like Ruby, Go, etc.
 - cipher.rb [ STUFF ] 1.a2-a4 a7-a6!
 - closest.rb [ SORTING ] closest numbers
 - Lily.rb [ HASHING ] Homework
+- maxpalin.rb [ COMBO ] A tough problem
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
