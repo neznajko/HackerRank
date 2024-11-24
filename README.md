@@ -40,6 +40,7 @@ but there are other languages like Ruby, Go, etc.
 - closest.rb [ SORTING ] closest numbers
 - Lily.rb [ HASHING ] Homework
 - maxpalin.rb [ COMBO ] A tough problem
+- GameofThrones.rb [ HASHING ] Didn't watch that film
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
