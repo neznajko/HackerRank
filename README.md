@@ -41,6 +41,7 @@ but there are other languages like Ruby, Go, etc.
 - Lily.rb [ HASHING ] Homework
 - maxpalin.rb [ COMBO ] A tough problem
 - GameofThrones.rb [ HASHING ] Didn't watch that film
+- gemstones.rb [ HASHING ] using sets
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
