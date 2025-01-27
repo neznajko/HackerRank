@@ -83,3 +83,6 @@ but there are other languages like Ruby, Go, etc.
 - CavityMap.cc [ stuff ] mark with X cavities on a map
 - Stones.cpp [ path ] find sum of all stone combinations
 
+# rust
+- number_strings.rs [ MATH ] Beautiful strings again 
+
