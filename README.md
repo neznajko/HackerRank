@@ -64,6 +64,7 @@ but there are other languages like Ruby, Go, etc.
 - StrangeCounter.py [ math ] strange math problem
 - almost_sorted.py [ sorting ] a tedious problem
 - superstring.py [ stack ] removing adjacent characters
+- pairs.py [ hashing ] count number of pairs
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
