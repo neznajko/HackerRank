@@ -42,6 +42,7 @@ but there are other languages like Ruby, Go, etc.
 - maxpalin.rb [ COMBO ] A tough problem
 - GameofThrones.rb [ HASHING ] Didn't watch that film
 - gemstones.rb [ HASHING ] using sets
+- roads_and_libs.rb [ GRAPH ] min cost 4 providing access to libs
 
 # go
 - nondivisable.go [ Hashing ] max subset of non divisible pairs
