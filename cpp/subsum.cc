@@ -48,7 +48,7 @@ typedef long u64;
 ////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////
 // We are given an array o f integers V and a number M, and have
-// to find a continuous subarray of V such that t h e sum of its
+// to find a continuous sub array of V such that the sum o f its
 // elements modulo M is the maximum possible.
 //
 // Whenever we are dealing with sum of sub a r r a y s the first
@@ -143,7 +143,7 @@ int main() {
 // people. Becoz of our survival I g u e s s we look like robots
 // programmed to maximize their freedom. This w i l l for taking
 // h i g h e r grounds c r e a t e s naturally the hierarchy and
-// restrictions we observe in our physical l i f e, But there is
+// restrictions we observe in our physical l i f e, but there is
 // no guards to restrict y o u r hunger for freedom o n a mental
 // level. And I guess most o f the m e n t a l problems like bad
 // thoughts o r non stop criticism and judgment of the others is
