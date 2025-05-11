@@ -84,6 +84,7 @@ but there are other languages like Ruby, Go, etc.
 - WorldFinals.cc [ stuff ] 2 team number of topics
 - CavityMap.cc [ stuff ] mark with X cavities on a map
 - Stones.cpp [ path ] find sum of all stone combinations
+- subsum.cc [ search ] modular arithmetic
 
 # rust
 - number_strings.rs [ MATH ] Beautiful strings again 
