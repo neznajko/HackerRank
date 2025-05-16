@@ -66,6 +66,7 @@ but there are other languages like Ruby, Go, etc.
 - almost_sorted.py [ sorting ] a tedious problem
 - superstring.py [ stack ] removing adjacent characters
 - pairs.py [ hashing ] count number of pairs
+- evenTree.py [ tree ] Ah, Mrs. Forester!
 
 # dotnet
 - picknum.cs [ Hashing ] picking maxlen subarray
