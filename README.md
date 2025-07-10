@@ -91,4 +91,5 @@ but there are other languages like Ruby, Go, etc.
 
 # rust
 - number_strings.rs [ MATH ] Beautiful strings again 
+- DetectiveRust.rs [ BFS ] Detective Rust and the Missing Edge  
 
