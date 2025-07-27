@@ -89,6 +89,7 @@ but there are other languages like Ruby, Go, etc.
 - Stones.cpp [ path ] find sum of all stone combinations
 - subsum.cc [ search ] modular arithmetic
 - StringFunction.cpp [ Suffix Automaton ] cp-algorithms.com
+- Ashton.cc [ Suffix Array + LCP + Binary Search ] this is crazy
 
 # rust
 - number_strings.rs [ MATH ] Beautiful strings again 
