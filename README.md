@@ -90,6 +90,7 @@ but there are other languages like Ruby, Go, etc.
 - subsum.cc [ search ] modular arithmetic
 - StringFunction.cpp [ Suffix Automaton ] cp-algorithms.com
 - Ashton.cc [ Suffix Array + LCP + Binary Search ] this is crazy
+- maxmin.cc [ sor4ing ] stuff
 
 # rust
 - number_strings.rs [ MATH ] Beautiful strings again 
